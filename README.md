@@ -3,7 +3,7 @@ Short script written in Perl language using regular expression techniques to det
 
 > Sample command line call: `perl ssr.pl fasta.txt > results.txt`
 
-This code has been developed for the study of [Development of 1000 Microsatellite Markers across the Date Palm (Phoenix dactylifera L.) Genome](https://www.ishs.org/ishs-article/882_29) which won the prize of Khalifa International Date Palm Award as the most Distinguished Research/Studies in 2012 ([Winner Book 2012-2013-2014](https://www.kidpa.ae/sites/default/files/2012-2013-2014%20english.pdf)).
+This code has been developed for the study of [Development of 1000 Microsatellite Markers across the Date Palm (Phoenix dactylifera L.) Genome](https://www.ishs.org/ishs-article/882_29) which won the prize of Khalifa International Date Palm Award as the most Distinguished Research/Studies in 2012 ([Winner Book 2012-2013-2014](https://www.kidpa.ae/sites/default/files/2012-2013-2014%20english.pdf#page=26)).
 
 ## Procedure Parameters:
 - **$min_base and $max_base:** Minimum and maximum SSR base length (2 and 6 for example, so we are looking after di-, tri-, tetra-, penta-, and hexa- nucleotide repeats).
